@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/https//yunji-choi.github.io/react-ts-todo/static/js/main.783bc58e.js",
-    "index.html": "/https//yunji-choi.github.io/react-ts-todo/index.html",
-    "main.783bc58e.js.map": "/https//yunji-choi.github.io/react-ts-todo/static/js/main.783bc58e.js.map"
+    "main.js": "/react-ts-todo/static/js/main.72fb2aa3.js",
+    "index.html": "/react-ts-todo/index.html",
+    "main.72fb2aa3.js.map": "/react-ts-todo/static/js/main.72fb2aa3.js.map"
   },
   "entrypoints": [
-    "static/js/main.783bc58e.js"
+    "static/js/main.72fb2aa3.js"
   ]
 }
