@@ -1,7 +1,7 @@
 import React from "react";
-import "./App.css";
+
 import { createGlobalStyle } from "styled-components";
-import ToDoList from "./ToDoList";
+import ToDoList from "./components/ToDoList";
 
 const GlobalStyle = createGlobalStyle`
 
@@ -71,6 +71,11 @@ a{
 }
 h1{
   font-weight: 600;
+  font-size: 150%;
+}
+h2{
+  font-weight: 600;
+  font-size: 125%;
 }
 `;
 
